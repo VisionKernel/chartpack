@@ -1,0 +1,13 @@
+{
+    "name": "chartpack",
+    "version": "1.0.0",
+    "description": "Configuration library for multiple chart libraries",
+    "main": "index.js",
+    "type": "module",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/VisionKernel/chartpack.git"
+    },
+    "author": "VisionKernel Team",
+    "license": "MIT"
+  }
